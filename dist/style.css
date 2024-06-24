@@ -1,0 +1,18 @@
+canvas {
+  width: 400px;
+  height: 250px;
+  border: 1px solid #c3c3c3;
+}
+
+h1 {
+  font-family: Arial;
+}
+
+.input {
+  font-size: 20px;
+  font-family: Arial;
+}
+
+body {
+  background-color: rgb(243, 218, 178);
+}
